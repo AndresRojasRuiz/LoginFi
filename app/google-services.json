@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73439693361",
+    "project_id": "sqlite2024",
+    "storage_bucket": "sqlite2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73439693361:android:b347c5aaa898b1b682a310",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjstv-YoMYwyJ45EGH-UYa0PTe8vGwUCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73439693361:android:31276eb22b86633c82a310",
+        "android_client_info": {
+          "package_name": "com.example.sqllite2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjstv-YoMYwyJ45EGH-UYa0PTe8vGwUCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
